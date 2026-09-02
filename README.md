@@ -12,9 +12,9 @@
 
 <h2 align="center">Initial Robot Prototype</h2><p align="center" width="100%">
 <p float="left">
-<img src="IMG_3679.JPG" alt="Alt text" width="300" height = "490">
-<img src="IMG_3680.JPG" alt="Alt text" width="300" height = "490">
-<img src="IMG_3681.JPG" alt="Alt text" width="300" height = "490">
+<img src="IMG_3679.JPG" alt="Alt text" width="334" height = "500">
+<img src="IMG_3680.JPG" alt="Alt text" width="334" height = "500">
+<img src="IMG_3681.JPG" alt="Alt text" width="334" height = "500">
 </p>
 
 <h2 align="center">Prototype Following a Line</h2><p align="center" width="100%">
