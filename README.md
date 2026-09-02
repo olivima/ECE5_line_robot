@@ -1,7 +1,5 @@
 
-
-
-# ECE5_line_robot
+# ECE5, SU26 Final Project
 
 <h1 align="center">Team 3 | Pizza People</h1
 
