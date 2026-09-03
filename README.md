@@ -133,7 +133,7 @@
 <p align="center">
   3D-printed chassis &nbsp;•&nbsp;
   Integrated light shield &nbsp;•&nbsp;
-  Soldered LED & sensor and SPID potentiometer boards &nbsp;•&nbsp;
+  Soldered LED/sensor & potentiometer boards &nbsp;•&nbsp;
   Rubber banded traction
 </p>
 
