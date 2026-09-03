@@ -190,7 +190,7 @@
     <b>Arduino</b>: For developing and uploading the robot's software.
   </li>
   <li>
-    <b>Line Following Code</b>: Credit to ECE staff, including MingWei Yeoh, Karcher Morris, and Korey Huynh.
+    <b>Line Following Code</b>: Credit to ECE 5 staff, including MingWei Yeoh, Karcher Morris, and Korey Huynh.
     <a href="LINK">NEEDS: link to code?</a>
   </li>
 </ul>
