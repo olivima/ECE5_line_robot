@@ -1,7 +1,7 @@
 
 # ECE5 SU26 Final Project
 
-<h1 align="center">Team 3 | Pizza People</h1
+<h1 align="center">Team 3 | Pizza People</h1>
 
 <p align="center" width="100%">
 <p align="center"> Members: Amanda Welly, Olivia Ma, Zoe de Walque, Jiaying Xu, Casssandra Park </p>
@@ -88,7 +88,7 @@
 </p>
 
 <hr> 
-<h3 align="left">Preliminary line-following video</h2>
+<h2 align="left">Preliminary line-following video</h2>
 <p>
   This one of our earlier runs with our robot during its breadboarded days:
 </p>
@@ -128,7 +128,7 @@
   reliable line-following system. The robot includes the following specs:
 </p>
 
-<h3 align="left">Final Design Features</h2>
+<h3 align="left">Final Design Features</h3>
 
 <p align="center">
   3D-printed chassis &nbsp;•&nbsp;
@@ -145,7 +145,7 @@
   <img width="300" alt="Circuit diagram" src="..." />
 </p>
 
-<h3 align="left">PID Control</h2>
+<h3 align="left">PID Control</h3>
 
 <p>
   NEEDS: What PID Values did you choose and why?
@@ -153,7 +153,7 @@
   Code modifications (although I think ours are just minor, like changing params and stuff)
 </p>
 
-<h3 align="left">Team Competition</h2>
+<h3 align="left">Team Competition</h3>
 <p>
   NEEDS: Competition scores and rankings for each track:
   Drag Race - time and rank, 
