@@ -331,8 +331,8 @@
         Soldered motors<br>
         Adjusted robot code to better follow line<br>
         Calibrated robot</td>
-    <td align="center" width="20%">Built & tested initial photoresistor circuit<br>
-        Designed & optimized photoresistor/LED protoboard layout<br>
+    <td align="center" width="20%">Designed & optimized photoresistor/LED protoboard layout<br>
+        Built & tested initial photoresistor circuit<br>
         Troubleshot & resolved electrical issues<br>
         Calibrated robot</td>
     <td align="center" width="20%">Soldered potentiometer & photoresistor protoboards<br>
