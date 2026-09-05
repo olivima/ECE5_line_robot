@@ -128,7 +128,7 @@
         src="https://github.com/user-attachments/assets/4e209978-c40b-4f11-912b-1c49b6056f78"
         muted
         controls
-        width="400">
+        width="600">
       </video>
       <br>
       <b>Line Following Test</b>
@@ -241,7 +241,7 @@
         src="https://github.com/user-attachments/assets/032b4f76-95af-4f1d-8c7a-0535f9a26b7f"
         muted
         controls
-        width="400">
+        width="600">
       </video>
       <br>
     </td>
