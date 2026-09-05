@@ -267,6 +267,13 @@
   <img width="450" alt="Circuit diagram" src="https://github.com/user-attachments/assets/35ba3403-54fd-4ced-9eae-d21d5abdce77" />
 </p>
 
+<h3 align="left">LED/Photoresistor Protoboard</h3>
+<p align="center">
+  <img width="373" height="190" alt="IMG_6269" src="https://github.com/user-attachments/assets/4238dd51-a125-433e-a63a-3c9635f0c056" />
+</p>
+
+
+
 <h3 align="left">Project Poster</h3>
 
 <p align="center">
