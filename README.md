@@ -182,6 +182,10 @@
 
 <h3 align="left">PID Control</h3>
 
+<p> <b>PID (Proportional-Integral-Derivative) control</b> is a feedback control method that adjusts a robot's motor speeds based on the error calculated between its current position and the desired line position. By tuning the P, I, and D gains, we're able to balance responsiveness, speed, and smoothness to improve our robot's line-following performance across different tracks. </p>
+
+<ul> <li><b>P (Proportional):</b> Determines how strongly the robot responds to its current error, so increasing P will make a robot react more aggressively to sensed deviations. This can improve responsiveness around curves, but can also cause jitter or oscillations if set too high.</li> <li><b>I (Integral):</b> Accumulates error over time to correct persistent tracking errors. Increasing I can help a robot correct consistent deviations from the line, but too much can cause overshooting or instability. </li> <li><b>D (Derivative):</b> Responds to how quickly the error is changing. Increasing D has a dampening effect which can reduce oscillations and result in smoother movement.</li> </ul>
+
 <p>
   The following are our SPID value controls for the different tracks and our reasons why we used them:<br>
   <b>Drag Race:</b> Increased speed and P gain as much as possible to maximize the speed while maintaining smoothness and stable line-following. D gain was increased slightly to reduce oscillations and improve smoothness at higher speeds. I gain was set to 0 because integral correction was not necessary for the relatively straight track and could introduce additional instability. A nominal speed of 150 was used to allow the robot to move at a faster speed.<br>
