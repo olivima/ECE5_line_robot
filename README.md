@@ -216,17 +216,17 @@
     <td align="center">9 in distance in 13s</td>
   </tr>
 </table>
+
 <p align="center">
-  <img width="500" height="375" alt="Drag race(!)" src="https://github.com/user-attachments/assets/d0b0c4cb-81ff-4964-b0ad-22d01d3a8123" />
-  <img width="250" height="375" alt="Loop track" src="https://github.com/user-attachments/assets/8542784c-ab41-41c3-9bfc-b092ccc72c29" />
-  <img width="250" height="375" alt="Frequency sweep" src="https://github.com/user-attachments/assets/7f5f109f-eda1-4b3e-ad6e-17ede28bf96e" />
+  <img width="440" height="330" alt="Drag race(!)" src="https://github.com/user-attachments/assets/d0b0c4cb-81ff-4964-b0ad-22d01d3a8123" />
+  <img width="220" height="330" alt="Loop track" src="https://github.com/user-attachments/assets/8542784c-ab41-41c3-9bfc-b092ccc72c29" />
+  <img width="220" height="330" alt="Frequency sweep" src="https://github.com/user-attachments/assets/7f5f109f-eda1-4b3e-ad6e-17ede28bf96e" />
 </p>
 
 <p align="center">
-  <img width="407" height="325" alt="IMG_6665" src="https://github.com/user-attachments/assets/d5213890-70fc-4cbd-8af9-7f0c8e697818" />
-  <img width="578" height="325" alt="IMG_6666" src="https://github.com/user-attachments/assets/d225e6b5-5e8b-4c4c-b86f-1237103170f6" />  
+  <img width="376" height="300" alt="IMG_6665" src="https://github.com/user-attachments/assets/d5213890-70fc-4cbd-8af9-7f0c8e697818" />
+  <img width="533" height="300" alt="IMG_6666" src="https://github.com/user-attachments/assets/d225e6b5-5e8b-4c4c-b86f-1237103170f6" />
 </p>
-
 
 <h4 align="left">Winning Final Competition Run</h4>
 
