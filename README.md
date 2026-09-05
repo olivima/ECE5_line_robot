@@ -122,20 +122,35 @@
 
 <p>
   During the last week, we made significant changes throughout our prototyping process. 
-  (NEED TO ADD: 4-6 sentences on improvements made during the last week and improvements you wish you made (or if given more time would have))
-  After five iterations, our robot now combines the mechanical, electrical, and sensor 
-  improvements developed throughout our prototyping process to become a compact and 
-  reliable line-following system. The robot includes the following specs:
+  Most significantly, we moved from breadboarded photoresistor and potentiometer circuits 
+  to soldered protoboards, incorporated a 7-LED circuit into our photoresistor board, 
+  revamped and iterated on our chassis models to support these new protoboards with a 
+  narrower design, and created a 3D printed light shield to improve on our initial 
+  cardboard version. This final design lets us easily access the ESP32's USB port for 
+  loading code and potentiometers for calibration. The integrated light provides the 
+  sensors with consistent, uniform lighting from the LEDs, while the parallel LED 
+  configuration helps minimize the overall power draw of the lighting circuit.<br>
+  Given more time, we would have liked to further refine the software and calibration 
+  for more challenging cases, such as the frequency sweep track. We also would have added
+  a few final mechanical touches to the chassis, such as determining the optimal
+  distance between the photoresistors and motors for more accurate error adjustments 
+  and replacing the temporary tape wall around the light shield by extending the wall 
+  closer to the ground.<br>
 </p>
 
 <h3 align="left">Final Design Features</h3>
-
-<p align="center">
-  3D-printed chassis &nbsp;•&nbsp;
-  Integrated light shield &nbsp;•&nbsp;
-  Soldered LED/sensor & potentiometer boards &nbsp;•&nbsp;
-  Rubber banded traction
+<p>
+  After five iterations, our robot has gone through many mechanical, electrical, and 
+  software improvements developed throughout the prototyping process, including:
 </p>
+
+<ul>
+  <li>3D-printed chassis with integrated light shield & motor braces for improved wheel alignment</li>
+  <li>Soldered LED/sensor & potentiometer boards</li>
+  <li>Adjustable sensor calibration with consistent LED illumination</li>
+  <li>PID-based line following</li>
+  <li>Rubber-banded wheel traction</li>
+</ul>
 
 <p align="center">
   <img width="300" alt="Annotated robot" src="..." />
@@ -217,15 +232,18 @@
     <td align="center"><b>Cassandra Park</b></td>
   </tr>
   <tr>
-    <td align="center">____<br>
-        ____<br>
-        ____</td>
-    <td align="center">____<br>
-        ____<br>
-        ____</td>
-    <td align="center">____<br>
-        ____<br>
-        ____</td>
+    <td align="left">Designed initial chassis<br>
+        Designed 3D-printed light shield<br>
+        Assembled & secured robot build<br>
+        Calibrated robot</td>
+    <td align="left">Designed & iterated 7 chassis prototypes<br>
+        Created potentiometer circuit<br>
+        Developed website & project documentation<br>
+        Calibrated robot</td>
+    <td align="left">Integrated & soldered LED circuit for photoresistor board<br>
+        Soldered motors<br>
+        Adjusted robot code to better follow line<br>
+        Calibrated robot</td>
     <td align="center">____<br>
         ____<br>
         ____</td>
